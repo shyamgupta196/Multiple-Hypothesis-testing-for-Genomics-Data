@@ -78,4 +78,4 @@ This report explores multiple hypothesis testing in RNA-seq differential express
 - **StoreyQ**: Optimal for exploratory research with high discovery goals.  
 - **BY**: Suitable for strict FP control.  
 
-*For equations, code snippets, and extended discussions, refer to the [original PDF](#).*
+*For equations, code snippets, and extended discussions, refer to the [original PDF](https://github.com/shyamgupta196/Multiple-Hypothesis-testing-for-Genomics-Data/blob/main/Final-Report.pdf).*
