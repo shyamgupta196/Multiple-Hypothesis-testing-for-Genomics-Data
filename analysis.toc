@@ -1,0 +1,60 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Scope and Relevance of RNA-seq}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Challenges in High-Throughput Gene Expression Studies}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Conceptual Motivation for Differential Expression Testing}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Rationale for This Report and Layout of the Document}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Literature Review and Background}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Historical Evolution of Transcriptomic Profiling}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Multiple Testing and Its Significance in Omics}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Trends in Large-Scale Transcriptomic Studies}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Positioning the Current Study}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Methodology}{6}{section.3}%
+\contentsline {section}{\numberline {4}Data Simulation}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Rationale for Using the Negative Binomial Model}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Mathematical Formulation of the Negative Binomial}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Baseline Mean Expression and Library Size Variation}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Assigning Differential Expression: Proportion and Fold-Change}{9}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Sample Size Considerations}{9}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Study Design and Replicates}{9}{section.5}%
+\contentsline {section}{\numberline {6}Generating Counts}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Relevant R Code Snippet}{10}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Differential Expression Analysis}{12}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Transformation and Testing Methodology}{12}{subsection.7.1}%
+\contentsline {paragraph}{Log-Transformation.}{12}{paragraph*.2}%
+\contentsline {paragraph}{Wilcoxon Rank-Sum Test.}{12}{paragraph*.3}%
+\contentsline {paragraph}{RNA-seq-Specific Tools.}{12}{paragraph*.4}%
+\contentsline {subsection}{\numberline {7.2}P-Value Extraction}{12}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Multiple Testing Corrections}{12}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Benjamini-Hochberg (BH)}{13}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Benjamini-Yekutieli (BY)}{13}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Storey’s Q-Value}{13}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Choosing the Significance Threshold}{13}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Performance Metrics}{13}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Confusion Matrix Terms}{14}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Type I Error and FDR}{14}{subsection.9.2}%
+\contentsline {paragraph}{Type I Error (or FPR).}{14}{paragraph*.6}%
+\contentsline {paragraph}{False Discovery Rate (FDR).}{14}{paragraph*.7}%
+\contentsline {subsection}{\numberline {9.3}Power (or Sensitivity)}{15}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Visualizations}{15}{section.10}%
+\contentsline {section}{\numberline {11}Methodological Rationale}{16}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Choice of Model and Parameters}{16}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Choice of Multiple Testing Methods}{16}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Choice of Visualizations}{17}{subsection.11.3}%
+\contentsline {section}{\numberline {12}Discussion of Simulated Data and Results}{17}{section.12}%
+\contentsline {subsection}{\numberline {12.1}General Features of the Simulated Dataset}{17}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Volcano Plot Observations}{17}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}True vs Estimated log2 FC Observations:}{19}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}ROC Curve Observations:}{20}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}MA Plot Observations:}{21}{subsection.12.5}%
+\contentsline {subsection}{\numberline {12.6}PCA Plot Observations:}{22}{subsection.12.6}%
+\contentsline {subsection}{\numberline {12.7}Insights on Library Size Variation and Dispersion}{23}{subsection.12.7}%
+\contentsline {subsection}{\numberline {12.8}Contextualizing Surprising or Unintuitive Outcomes}{23}{subsection.12.8}%
+\contentsline {subsection}{\numberline {12.9}Overarching Narrative of the Simulated Analysis}{24}{subsection.12.9}%
+\contentsline {section}{\numberline {13}Examination of the Statistical Approach}{24}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Multiple Hypothesis Testing Methods}{24}{subsection.13.1}%
+\contentsline {section}{\numberline {14}Interpreting the Code Output and Confusion Matrix}{24}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Definitions}{25}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Type I Error, FDR, and Power}{25}{subsection.14.2}%
+\contentsline {section}{\numberline {15}Extended Discussion on Multiple Testing and Statistical Implications}{26}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Correlation and Dependence Among Tests}{26}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Conservative vs. Adaptive Approaches}{27}{subsection.15.2}%

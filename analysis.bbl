@@ -1,0 +1,445 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{benjamini1995controlling}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2bf06df9b6fb1b6a6811f2965ef58db2}{%
+           family={Benjamini},
+           familyi={B\bibinitperiod},
+           given={Yoav},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=486dfb83d695169656e5706b50266208}{%
+           family={Hochberg},
+           familyi={H\bibinitperiod},
+           given={Yosef},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ba4be1a60b0ea36e468eb3f8db88a98}
+      \strng{fullhash}{0ba4be1a60b0ea36e468eb3f8db88a98}
+      \strng{fullhashraw}{0ba4be1a60b0ea36e468eb3f8db88a98}
+      \strng{bibnamehash}{0ba4be1a60b0ea36e468eb3f8db88a98}
+      \strng{authorbibnamehash}{0ba4be1a60b0ea36e468eb3f8db88a98}
+      \strng{authornamehash}{0ba4be1a60b0ea36e468eb3f8db88a98}
+      \strng{authorfullhash}{0ba4be1a60b0ea36e468eb3f8db88a98}
+      \strng{authorfullhashraw}{0ba4be1a60b0ea36e468eb3f8db88a98}
+      \field{labelalpha}{BH95}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Royal Statistical Society Series B}
+      \field{number}{1}
+      \field{title}{Controlling the false discovery rate: A practical and powerful approach to multiple testing}
+      \field{volume}{57}
+      \field{year}{1995}
+      \field{pages}{289\bibrangedash 300}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/j.2517-6161.1995.tb02031.x
+      \endverb
+    \endentry
+    \entry{benjamini2001control}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2bf06df9b6fb1b6a6811f2965ef58db2}{%
+           family={Benjamini},
+           familyi={B\bibinitperiod},
+           given={Yoav},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=84048874b81a086f927c9186617e7521}{%
+           family={Yekutieli},
+           familyi={Y\bibinitperiod},
+           given={Dani},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f00eb6229f356620df659872c9fae9e4}
+      \strng{fullhash}{f00eb6229f356620df659872c9fae9e4}
+      \strng{fullhashraw}{f00eb6229f356620df659872c9fae9e4}
+      \strng{bibnamehash}{f00eb6229f356620df659872c9fae9e4}
+      \strng{authorbibnamehash}{f00eb6229f356620df659872c9fae9e4}
+      \strng{authornamehash}{f00eb6229f356620df659872c9fae9e4}
+      \strng{authorfullhash}{f00eb6229f356620df659872c9fae9e4}
+      \strng{authorfullhashraw}{f00eb6229f356620df659872c9fae9e4}
+      \field{labelalpha}{BY01}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Statistics}
+      \field{number}{4}
+      \field{title}{The control of the false discovery rate in multiple testing under dependency}
+      \field{volume}{29}
+      \field{year}{2001}
+      \field{pages}{1165\bibrangedash 1188}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1214/aos/1013699998
+      \endverb
+    \endentry
+    \entry{reiner2003multiple}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=272504909568bf0784ce804c4a611a14}{%
+           family={Reiner},
+           familyi={R\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d8d3edd4befcc16bcc1cd8153c7c8f7e}{%
+           family={Yekutieli},
+           familyi={Y\bibinitperiod},
+           given={Yaniv},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2bf06df9b6fb1b6a6811f2965ef58db2}{%
+           family={Benjamini},
+           familyi={B\bibinitperiod},
+           given={Yoav},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{564dbcb8c56db5de00a32d16def173e2}
+      \strng{fullhash}{564dbcb8c56db5de00a32d16def173e2}
+      \strng{fullhashraw}{564dbcb8c56db5de00a32d16def173e2}
+      \strng{bibnamehash}{564dbcb8c56db5de00a32d16def173e2}
+      \strng{authorbibnamehash}{564dbcb8c56db5de00a32d16def173e2}
+      \strng{authornamehash}{564dbcb8c56db5de00a32d16def173e2}
+      \strng{authorfullhash}{564dbcb8c56db5de00a32d16def173e2}
+      \strng{authorfullhashraw}{564dbcb8c56db5de00a32d16def173e2}
+      \field{labelalpha}{RYB03}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistical Applications in Genetics and Molecular Biology}
+      \field{number}{1}
+      \field{title}{Multiple testing in microarray experiments}
+      \field{volume}{2}
+      \field{year}{2003}
+      \field{pages}{Article 9}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2202/1544-6115.1040
+      \endverb
+    \endentry
+    \entry{storey2003statistical}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8338dfd6e3d3d0eadb28be7509babb7e}{%
+           family={Storey},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8338dfd6e3d3d0eadb28be7509babb7e}
+      \strng{fullhash}{8338dfd6e3d3d0eadb28be7509babb7e}
+      \strng{fullhashraw}{8338dfd6e3d3d0eadb28be7509babb7e}
+      \strng{bibnamehash}{8338dfd6e3d3d0eadb28be7509babb7e}
+      \strng{authorbibnamehash}{8338dfd6e3d3d0eadb28be7509babb7e}
+      \strng{authornamehash}{8338dfd6e3d3d0eadb28be7509babb7e}
+      \strng{authorfullhash}{8338dfd6e3d3d0eadb28be7509babb7e}
+      \strng{authorfullhashraw}{8338dfd6e3d3d0eadb28be7509babb7e}
+      \field{labelalpha}{Sto03}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Statistics}
+      \field{number}{6}
+      \field{title}{The positive false discovery rate: A Bayesian interpretation and the q-value}
+      \field{volume}{31}
+      \field{year}{2003}
+      \field{pages}{2013\bibrangedash 2035}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1214/aos/1074290335
+      \endverb
+    \endentry
+    \entry{anders2010differential}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=62831e4feef4a1127074be90f88b62f4}{%
+           family={Anders},
+           familyi={A\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=06840ce5f3ec7137c6c49ee1605b903c}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1fd247700bec8cc399d8b3ac4a736836}
+      \strng{fullhash}{1fd247700bec8cc399d8b3ac4a736836}
+      \strng{fullhashraw}{1fd247700bec8cc399d8b3ac4a736836}
+      \strng{bibnamehash}{1fd247700bec8cc399d8b3ac4a736836}
+      \strng{authorbibnamehash}{1fd247700bec8cc399d8b3ac4a736836}
+      \strng{authornamehash}{1fd247700bec8cc399d8b3ac4a736836}
+      \strng{authorfullhash}{1fd247700bec8cc399d8b3ac4a736836}
+      \strng{authorfullhashraw}{1fd247700bec8cc399d8b3ac4a736836}
+      \field{labelalpha}{AH10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Genome Biology}
+      \field{number}{10}
+      \field{title}{Differential expression analysis for sequence count data}
+      \field{volume}{11}
+      \field{year}{2010}
+      \field{pages}{R106}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1186/gb-2010-11-10-r106
+      \endverb
+    \endentry
+    \entry{robinson2010edger}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2aa08244fd721275d08d7e2da379b722}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Mark\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d0dd72956405d78b6bb66638241ce020}{%
+           family={McCarthy},
+           familyi={M\bibinitperiod},
+           given={Davis\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e8acfd40aa371634dafbda59822de12b}{%
+           family={Smyth},
+           familyi={S\bibinitperiod},
+           given={Gordon\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{9439dfc2ce0d77dcb996812c6d596223}
+      \strng{fullhash}{9439dfc2ce0d77dcb996812c6d596223}
+      \strng{fullhashraw}{9439dfc2ce0d77dcb996812c6d596223}
+      \strng{bibnamehash}{9439dfc2ce0d77dcb996812c6d596223}
+      \strng{authorbibnamehash}{9439dfc2ce0d77dcb996812c6d596223}
+      \strng{authornamehash}{9439dfc2ce0d77dcb996812c6d596223}
+      \strng{authorfullhash}{9439dfc2ce0d77dcb996812c6d596223}
+      \strng{authorfullhashraw}{9439dfc2ce0d77dcb996812c6d596223}
+      \field{labelalpha}{RMS10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{number}{1}
+      \field{title}{edgeR: a Bioconductor package for differential expression analysis of digital gene expression data}
+      \field{volume}{26}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 140}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btp616
+      \endverb
+    \endentry
+    \entry{ritchie2015limma}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=951d585e86cb8b9c75ad8215db61706f}{%
+           family={Ritchie},
+           familyi={R\bibinitperiod},
+           given={Matthew\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=bffcd669072a93fe5f18e9037b1bcb13}{%
+           family={Phipson},
+           familyi={P\bibinitperiod},
+           given={Belinda},
+           giveni={B\bibinitperiod}}}%
+        {{hash=65027af5f4f54f2e6c7bb140253872e2}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c8471a849eb709ebe0fbe0e01176cd50}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Yifang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f16015700a0004333624de6431e9a41b}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Charity\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b4e22f2196e5fdf40a8499f2d3f8bf02}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e8acfd40aa371634dafbda59822de12b}{%
+           family={Smyth},
+           familyi={S\bibinitperiod},
+           given={Gordon\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{86c08ec45f36a1fa3a69960789a32e39}
+      \strng{fullhash}{dd10be2ac81c50adf371c58312df557a}
+      \strng{fullhashraw}{dd10be2ac81c50adf371c58312df557a}
+      \strng{bibnamehash}{86c08ec45f36a1fa3a69960789a32e39}
+      \strng{authorbibnamehash}{86c08ec45f36a1fa3a69960789a32e39}
+      \strng{authornamehash}{86c08ec45f36a1fa3a69960789a32e39}
+      \strng{authorfullhash}{dd10be2ac81c50adf371c58312df557a}
+      \strng{authorfullhashraw}{dd10be2ac81c50adf371c58312df557a}
+      \field{labelalpha}{Rit+15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{number}{7}
+      \field{title}{limma powers differential expression analyses for {RNA}-sequencing and microarray studies}
+      \field{volume}{43}
+      \field{year}{2015}
+      \field{pages}{e47}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/nar/gkv007
+      \endverb
+    \endentry
+    \entry{krawczyk2018fdr}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=fe574f82b3f55706b898b97250221c9c}{%
+           family={Krawczyk},
+           familyi={K\bibinitperiod},
+           given={Maciej},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d4dbe4381867ac80bbff00685d50e19d}{%
+           family={Wieczorek},
+           familyi={W\bibinitperiod},
+           given={Tomasz\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=07a2532a5650a52f120d74ffd49539d5}{%
+           family={Szymczak},
+           familyi={S\bibinitperiod},
+           given={Bartosz},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d3aa09588cbfd2f01246f98d1040758}
+      \strng{fullhash}{7d3aa09588cbfd2f01246f98d1040758}
+      \strng{fullhashraw}{7d3aa09588cbfd2f01246f98d1040758}
+      \strng{bibnamehash}{7d3aa09588cbfd2f01246f98d1040758}
+      \strng{authorbibnamehash}{7d3aa09588cbfd2f01246f98d1040758}
+      \strng{authornamehash}{7d3aa09588cbfd2f01246f98d1040758}
+      \strng{authorfullhash}{7d3aa09588cbfd2f01246f98d1040758}
+      \strng{authorfullhashraw}{7d3aa09588cbfd2f01246f98d1040758}
+      \field{labelalpha}{KWS18}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{number}{1}
+      \field{title}{Comparison of multiple testing correction methods in gene expression studies}
+      \field{volume}{19}
+      \field{year}{2018}
+      \field{pages}{138}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12859-018-2164-8
+      \endverb
+    \endentry
+    \entry{lin2020improving}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=2609429bf9375ea6f91de34c41330785}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=00e85161e6f2789d718fb32521c2e3db}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xinghua},
+           giveni={X\bibinitperiod}}}%
+        {{hash=e2f96031b073fa2e356a34ea6563ba78}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xueqin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=d7ed15bdd3f207fd575950fcb0f927bb}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Luming},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0bac7963693c9bddd989a72a6c06692}
+      \strng{fullhash}{fd862260affe7c3d5a75cba7568dba36}
+      \strng{fullhashraw}{fd862260affe7c3d5a75cba7568dba36}
+      \strng{bibnamehash}{b0bac7963693c9bddd989a72a6c06692}
+      \strng{authorbibnamehash}{b0bac7963693c9bddd989a72a6c06692}
+      \strng{authornamehash}{b0bac7963693c9bddd989a72a6c06692}
+      \strng{authorfullhash}{fd862260affe7c3d5a75cba7568dba36}
+      \strng{authorfullhashraw}{fd862260affe7c3d5a75cba7568dba36}
+      \field{labelalpha}{Lin+20}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{number}{8}
+      \field{title}{Improving the power of multiple testing correction methods in genomics with application to {RNA}-seq data}
+      \field{volume}{36}
+      \field{year}{2020}
+      \field{pages}{2395\bibrangedash 2401}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btz817
+      \endverb
+    \endentry
+    \entry{whittington2021comparing}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3d9cecad124ddf0e8feb1d3261b22c9c}{%
+           family={Whittington},
+           familyi={W\bibinitperiod},
+           given={Jeremy\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=695d7ec0272df06cc702391da41140c0}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Edward\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ccd5646b99f357f4521b9811c4b519bb}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Alex\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ec09037b3c09d4d076d40c01c349e0d}
+      \strng{fullhash}{5ec09037b3c09d4d076d40c01c349e0d}
+      \strng{fullhashraw}{5ec09037b3c09d4d076d40c01c349e0d}
+      \strng{bibnamehash}{5ec09037b3c09d4d076d40c01c349e0d}
+      \strng{authorbibnamehash}{5ec09037b3c09d4d076d40c01c349e0d}
+      \strng{authornamehash}{5ec09037b3c09d4d076d40c01c349e0d}
+      \strng{authorfullhash}{5ec09037b3c09d4d076d40c01c349e0d}
+      \strng{authorfullhashraw}{5ec09037b3c09d4d076d40c01c349e0d}
+      \field{labelalpha}{WWC21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biostatistics}
+      \field{number}{4}
+      \field{title}{Comparing methods for multiple hypothesis testing in high-dimensional genomic data}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{655\bibrangedash 673}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1093/biostatistics/kxaa044
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
